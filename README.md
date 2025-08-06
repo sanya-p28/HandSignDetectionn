@@ -1,5 +1,17 @@
-American Sign Language (ASL) Recognition System
-This project implements a real-time American Sign Language (ASL) recognition system focusing on hand detection and gesture interpretation using computer vision and machine learning techniques.
+# 🖐️ ASL Hand Detection System
+
+A computer vision system that detects **left and right hands** to assist in recognizing American Sign Language (ASL) gestures. This project uses OpenCV and Mediapipe to identify and crop hand regions from webcam video in real time, saving them for dataset creation and further training.
+
+---
+
+## 📸 Features
+
+✅ Real-time detection of left and right hands  
+✅ Automatic cropping and saving of detected hands  
+✅ Adjustable offset and image size for better framing  
+✅ Label assignment to different ASL gestures  
+✅ Built with Python, OpenCV, and Mediapipe
+
 
 🚀 Project Overview
 The primary goal of this system is to lay the foundational groundwork for interpreting ASL gestures from real-time video feeds.
