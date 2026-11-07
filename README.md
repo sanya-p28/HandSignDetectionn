@@ -1,4 +1,4 @@
-# 🖐️ ASL Hand Detection System
+# 🖐️ ASL Recognition System
 
 A computer vision system that detects **left and right hands** to assist in recognizing American Sign Language (ASL) gestures. This project uses OpenCV and Mediapipe to identify and crop hand regions from webcam video in real time, saving them for dataset creation and further training.
 
